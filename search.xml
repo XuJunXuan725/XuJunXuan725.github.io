@@ -11,6 +11,50 @@
         <content type="html"><![CDATA[<h2 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h2>]]></content>
       
       
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>machine leraning</title>
+      <link href="/post/1.html"/>
+      <url>/post/1.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="machine-leraning"><a href="#machine-leraning" class="headerlink" title="machine leraning"></a>machine leraning</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> machine leraning </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ESP32 IOT</title>
+      <link href="/post/0.html"/>
+      <url>/post/0.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="ESO32-IOT"><a href="#ESO32-IOT" class="headerlink" title="ESO32 IOT"></a>ESO32 IOT</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> IoT </category>
+          
+      </categories>
+      
       
     </entry>
     
